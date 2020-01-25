@@ -62,7 +62,7 @@ body>div{
     mix-blend-mode: difference;
 }
 
-.load{
+#load{
     position: absolute;;
     bottom: 5%;
     right: 5%;
@@ -82,7 +82,7 @@ a{
     background-color: bisque;
 }
 
-.load:hover{
+#load:hover{
     transform: rotate(180deg);
 }
 
